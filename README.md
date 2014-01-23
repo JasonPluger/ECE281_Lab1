@@ -9,3 +9,8 @@ ECE281_Lab1
 
 ### Waveform
 ![alt text](https://github.com/JasonPluger/ECE281_Lab1/blob/master/Lab1_waveform.JPG "waveform jpg")
+
+### Analysis
+After analyzing the waveform and comparing it to my truth table, I found that
+they matched exactly. That is, with each input combination of A, B, and C, the output
+of X, Y, and Z yielded what I originally expected. 
