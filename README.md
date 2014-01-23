@@ -25,4 +25,5 @@ of X, Y, and Z yielded what I originally expected and had predicted in my truth 
 After completing the 3-bit 2's complement part of the main lab by creating a .ucf file and
 programming the board with the file, I verified that the switches on the board matched up 
 with the correct input items (A, B, C) and did the same for ensuring the output items (X, Y, Z)
-matched up with the correct LED lights on the board. 
+matched up with the correct LED lights on the board. I did this by verifying each input of my 
+truth table with its corresponding output.
