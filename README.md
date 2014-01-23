@@ -13,4 +13,4 @@ ECE281_Lab1
 ### Analysis
 After analyzing the waveform and comparing it to my truth table, I found that
 they matched exactly. That is, with each input combination of A, B, and C, the output
-of X, Y, and Z yielded what I originally expected. 
+of X, Y, and Z yielded what I originally expected and had predicted in my truth table.
