@@ -1,0 +1,11 @@
+# On the Nexys 2 board, pin numbers are given in (parenthesis),
+# and item names are given withOUT parenthesis.
+# Slide Switches - INPUTS
+NET "A" LOC = "K18"; #Type = INPUT, Sch name = SW0
+NET "B" LOC = "H18"; #Type = INPUT, Sch name = SW1
+NET "C" LOC = "G18"; #Type = INPUT, Sch name = SW2
+
+# LED lights - OUTPUTS
+NET "X" LOC = "K15"; #Type = OUTPUT, Sch name = LD0
+NET "Y" LOC = "J15"; #Type = OUTPUT, Sch name = LD1
+NET "Z" LOC = "J14"; #Type = OUTPUT, Sch name = LD2
