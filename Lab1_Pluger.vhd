@@ -9,7 +9,11 @@
 -- Target Devices: Nexys 2
 -- Tool versions: 
 -- Description: 
---
+-- Documentation: C3C Weisner explained the code for the 8-bit 
+-- implementation. He explained how we have to take something that
+-- is of type STD_LOGIC_VECTOR, "cast" it to the "signed" type, add 1,
+-- and convert back to the STD_LOGIC_VECTOR type.
+
 -- Dependencies: 
 --
 -- Revision: 
