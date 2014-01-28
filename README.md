@@ -6,6 +6,9 @@ ECE281_Lab1
 ### Truth Table
 ![alt text](https://github.com/JasonPluger/ECE281_Lab1/blob/master/TruthTable.JPG "Truth Table")
 
+### Schematic
+![alt Here's My Schematic](https://github.com/JasonPluger/ECE281_Lab1/blob/master/Schematic.jpg "Schematic")
+
 
 ### Waveform
 ![alt text](https://github.com/JasonPluger/ECE281_Lab1/blob/master/Lab1_waveform.JPG "waveform jpg")
@@ -26,9 +29,9 @@ After completing the 3-bit 2's complement part of the main lab by creating a .uc
 programming the board with the file, I verified that the switches on the board matched up 
 with the correct input items (A, B, C) and did the same for ensuring the output items (X, Y, Z)
 matched up with the correct LED lights on the board. I did this by verifying each input of my 
-truth table with its corresponding output. My design was checked off by Dr. Neebel.
+truth table with its corresponding output. My design was checked off by Dr. Neebel on 23 Jan 2014.
 
 ### Synthesis - 8 bit
 I continuted and completed the 8-bit implementation of the 2's complement converter using 
 STD_LOGIC_VECTORs. I tested, albeit not exhaustively, the converter and it operated as
-expected. My design was checked off by Dr. Neebel.
+expected. My design was checked off by Dr. Neebel on 27 Jan 2014.
