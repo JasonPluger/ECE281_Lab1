@@ -6,6 +6,9 @@ ECE281_Lab1
 ### Truth Table
 ![alt text](https://github.com/JasonPluger/ECE281_Lab1/blob/master/TruthTable.JPG "Truth Table")
 
+### Schematic
+![alt Here's My Schematic](https://github.com/JasonPluger/ECE281_Lab1/blob/master/Schematic.jpg "Schematic")
+
 
 ### Waveform
 ![alt text](https://github.com/JasonPluger/ECE281_Lab1/blob/master/Lab1_waveform.JPG "waveform jpg")
