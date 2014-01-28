@@ -10,6 +10,10 @@ NET "A<2>" LOC = "K18"; #Type = INPUT, Sch name = SW2
 NET "A<1>" LOC = "H18"; #Type = INPUT, Sch name = SW1
 NET "A<0>" LOC = "G18"; #Type = INPUT, Sch name = SW0
 
+#NET "A" LOC = "K18"; #Type = INPUT, Sch name = SW2
+#NET "B" LOC = "H18"; #Type = INPUT, Sch name = SW1
+#NET "C" LOC = "G18"; #Type = INPUT, Sch name = SW0
+
 
 # LED lights - OUTPUTS
 NET "Z<7>" LOC = "R4"; #Type = OUTPUT, Sch name = LD7
@@ -20,3 +24,7 @@ NET "Z<3>" LOC = "K14"; #Type = OUTPUT, Sch name = LD3
 NET "Z<2>" LOC = "K15"; #Type = OUTPUT, Sch name = LD2
 NET "Z<1>" LOC = "J15"; #Type = OUTPUT, Sch name = LD1
 NET "Z<0>" LOC = "J14"; #Type = OUTPUT, Sch name = LD0
+
+#NET "X" LOC = "K15"; #Type = OUTPUT, Sch name = LD2
+#NET "Y" LOC = "J15"; #Type = OUTPUT, Sch name = LD1
+#NET "Z" LOC = "J14"; #Type = OUTPUT, Sch name = LD0
