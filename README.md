@@ -35,3 +35,8 @@ truth table with its corresponding output. My design was checked off by Dr. Neeb
 I continuted and completed the 8-bit implementation of the 2's complement converter using 
 STD_LOGIC_VECTORs. I tested, albeit not exhaustively, the converter and it operated as
 expected. My design was checked off by Dr. Neebel on 27 Jan 2014.
+
+### Debugging
+My 8-bit converter initially was not producing the desired output, so I went back and double
+checked my code and found that I had programmed certain LEDs to the incorrect bit of my 
+output STD_LOGIC_VECTOR.
