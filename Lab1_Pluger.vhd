@@ -3,12 +3,12 @@
 -- Engineer: Jason Pluger
 -- 
 -- Create Date:    22:25:51 01/22/2014 
--- Design Name: 	
+-- Design Name: 	 3&8-bit implementation of 2's complement converter
 -- Module Name:    Lab1_Pluger - Behavioral 
 -- Project Name: Lab1
 -- Target Devices: Nexys 2
 -- Tool versions: 
--- Description: 
+-- Description: 3&8-bit implementation of 2's complement converter
 -- Documentation: C3C Weisner explained the code for the 8-bit 
 -- implementation. He explained how we have to take something that
 -- is of type STD_LOGIC_VECTOR, "cast" it to the "signed" type, add 1,
